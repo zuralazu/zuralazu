@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, i'm Azzura Lazuardy  👋
+
+![indira](img/indira.jpg)
 
 <!--
 **zuralazu/zuralazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying at the **Politeknik Caltex Riau**
+- 🌱 I’m currently learning **Flutter** for Mobile Development
+- 😄 I’m currently developing a [**mobile application**](https://github.com/zuralazu/TSA-Pemeliharaan-Mobile)
+
