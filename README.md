@@ -1,6 +1,6 @@
 ## Hello, i'm Azzura Lazuardy  👋
 
-![indira](img/indira.jpg)
+![indira](img/hehe.png)
 
 <!--
 **zuralazu/zuralazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
